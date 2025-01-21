@@ -1,1 +1,2 @@
 # BlinkitAnalyticsDashboard-Power-BI
+"Developed an interactive Blinkit Analytics Dashboard From 2012 to 2022 using Power BI. Utilized DAX for advanced calculations, Power Query for data transformation, and implemented best practices for data visualization and performance optimization. This project demonstrated my expertise in data modeling, business intelligence, and dashboard design to support data-driven decision-making."
